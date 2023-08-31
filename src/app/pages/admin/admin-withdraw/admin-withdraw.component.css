@@ -1,6 +1,8 @@
-
+.card{
+  width: 50vw;
+}
 .withdraw-card {
-  max-width: 800px;
+  
   margin: 0 auto;
   padding: 20px;
   border: 6px solid #3209a2;
@@ -8,6 +10,7 @@
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(234, 189, 189, 0.892);
 }
+
   
   
   .example-form {
